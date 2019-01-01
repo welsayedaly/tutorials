@@ -1,7 +1,8 @@
 *.iml
 .DS_Strore
-*.iml
 *.tar
-*.factorypath
 /.idea
 .mvn
+.project
+.classpath
+.settings
