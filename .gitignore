@@ -1,5 +1,5 @@
 *.iml
-.DS_Strore
+*.DS_Strore
 *.tar
 /.idea
 .mvn
